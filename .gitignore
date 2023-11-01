@@ -1,3 +1,7 @@
 ./out/
 ./.idea
-core-java.iml
+*.project
+*.classpath
+*.settings
+*.class
+/target
